@@ -1,7 +1,7 @@
 ---
 layout: about
 title: titles.about
-subtitle: main.subtitle
+# subtitle: main.subtitle
 permalink: /
 
 profile:
