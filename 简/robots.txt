@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bio.mwg.ink//简/sitemap.xml
+Sitemap: https://guaMass.GitHub.io/简/sitemap.xml
