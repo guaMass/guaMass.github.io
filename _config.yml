@@ -221,7 +221,7 @@ defaults:
 # multi language settings
 default_locale_in_subfolder: false
 exclude_from_localizations: ["js", "css"]
-languages: ["简", "en"]
+languages: [zh_CN, "en"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
