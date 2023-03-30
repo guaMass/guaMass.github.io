@@ -11,6 +11,83 @@ layout: default
 
           <article>
             <div class="cv">
+              <!-- <var>cn_lang</var> -->
+              {% assign lang_data = site.lang %}
+              {% if site.lang == '简' %}
+                {% assign lang_data = 'zh_CN' %}
+              {% endif %}
+              {% for entry in site.data[lang_data].cv %}
+                <div class="card mt-3 p-3">
+                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                  <div>
+                    {% case entry.type %}
+                      {% when "list" %}
+                        {% include cv/list.html %}
+                      {% when "map" %}
+                        {% include cv/map.html %}
+                      {% when "nested_list" %}
+                        {% include cv/nested_list.html %}
+                      {% when "time_table" %}
+                        {% include cv/time_table.html %}
+                      {% else %}
+                        {{ entry.contents }}
+                    {% endcase %}
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          </article>
+          
+          
+
+
+          <!-- <article>
+            <div class="cv">
+              <var>cn_lang</var>
+              {% if site.lang == '简' %}
+                {% for entry in site.data['zh_CH'].cv %}
+                  <div class="card mt-3 p-3">
+                    <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                    <div>
+                    {% if entry.type == "list" %}
+                      {% include cv/list.html %}
+                    {% elsif entry.type == "map" %}
+                      {% include cv/map.html %}
+                    {% elsif entry.type == "nested_list" %}
+                      {% include cv/nested_list.html %}
+                    {% elsif entry.type == "time_table" %}
+                      {% include cv/time_table.html %}
+                    {% else %}
+                      {{ entry.contents }}
+                    {% endif %}
+                    </div>
+                  </div>
+                {% endfor %}
+              {% else %}
+                {% for entry in site.data[site.lang].cv %}
+                  <div class="card mt-3 p-3">
+                    <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+                    <div>
+                    {% if entry.type == "list" %}
+                      {% include cv/list.html %}
+                    {% elsif entry.type == "map" %}
+                      {% include cv/map.html %}
+                    {% elsif entry.type == "nested_list" %}
+                      {% include cv/nested_list.html %}
+                    {% elsif entry.type == "time_table" %}
+                      {% include cv/time_table.html %}
+                    {% else %}
+                      {{ entry.contents }}
+                    {% endif %}
+                    </div>
+                  </div>
+                {% endfor %}
+              {% endif %}
+            </div>
+          </article> -->
+          
+          <!-- <article>
+            <div class="cv">
               {% for entry in site.data[site.lang].cv %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
@@ -30,6 +107,6 @@ layout: default
                 </div>
               {% endfor %}
               </div>
-          </article>
+          </article> -->
 
         </div>
