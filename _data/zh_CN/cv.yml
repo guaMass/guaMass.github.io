@@ -32,14 +32,15 @@
       description:
         - GPA： 3.3 (满分4.0)
         - 论文：<i>基于ROS的毫米波雷达SLAM</i>
+        - 由<a href="https://comm.hdu.edu.cn/_s70/2023/0216/c2866a241809/page.psp">赵宜楠教授</a>指导。
 
 
 - title: 工作经历
   type: time_table
   contents:
     - title: 研究生助教
-      institution: 计算学院，佐治亚理工学院
-      year: 2022
+      institution: 佐治亚理工深圳学院，佐治亚理工学院
+      year: 2022春-2022秋
       description:
         - 负责GradeScope自动代码评分脚本的测试和部署。
         - 组织习题课和课后答疑。

@@ -32,14 +32,15 @@
       description:
         - GPA： 3.3 (4.0 scale)
         - Thesis：<i>Millimeter wave radar SLAM based on ROS</i>
+        - Advised by <a href="https://comm.hdu.edu.cn/_s70/2023/0216/c2866a241809/page.psp">Prof. Yinan ZHAO</a>
 
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Peer Tutor
-      institution: Collage of Computing, Georgia Institute of Technology
-      year: 2022 
+      institution: Georgia Tech Shenzhen Institute, Georgia Institute of Technology
+      year: 2022SP-2022FA
       description:
         - Responsible for testing and deployment the automatic scoring scripts on GradeScope.
         - Holding office hour weekly.
