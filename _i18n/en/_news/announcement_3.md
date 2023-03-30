@@ -1,1 +1,1 @@
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Update a new version of my Website which support Simple Chinese now!:sparkles: :smile: 

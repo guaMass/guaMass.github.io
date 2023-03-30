@@ -1,1 +1,1 @@
-Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:
+更新了我的个人页面，现在支持中文了！:sparkles: :smile:  
