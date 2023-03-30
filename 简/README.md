@@ -1,4 +1,4 @@
-# multi-language-al-folio
+# multi-language-al-folio-for-Chinese
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -18,6 +18,14 @@
 
 A multilingual version of the [al-folio theme](https://github.com/alshedivat/al-folio), a simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
+
+I have created a multi-language 'al-folio-for-Chinese' based on [George](https://github.com/george-gca/multi-language-al-folio)'s excellent work. This version supports Chinese characters such as '简' and '繁'. Additionally, I have fixed the bug where HTML could not use the `[]` operator to index Chinese characters.
+
+我在其中加入了对中文字符的支持（包括一套google衬线字体），还修复了CV页面对中文字符的不正确索引。
+
+![Switch to Chinese](assets/img/alfolio_en.jpg)
+![Chines CV](assets/img/alfolio_cn.jpg)
+
 
 The default language will be the first in the list of languages in the `_config.yml` file. When using two languages, the theme will show a button in the header that switches to the other language directly.
 
