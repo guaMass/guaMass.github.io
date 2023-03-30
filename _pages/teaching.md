@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+This page will no longer be available before the spring semester of 2023 HKUST.
 
-Organize your courses by years, topics, or universities, however you like!
+As I am no longer the TA, Gatech 2022 course materials have been removed.
