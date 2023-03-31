@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
 title: titles.repositories
 description: descriptions.repositories
 permalink: /repositories/
-nav: true
+nav: false
 nav_order: 3
 ---
 
@@ -41,4 +41,4 @@ nav_order: 3
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %} -->
+{% endif %}

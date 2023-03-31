@@ -31,7 +31,7 @@ descriptions:
   archive-year: um arquivo de postagens deste ano
   blog: blogging
   publications: 发表文献按时间倒序排列。
-  projects: 当前项目
+  projects: 我参与中/过的项目……
   repositories: 代码仓库
   teaching: 课程资料
   unk: Parece que ocorreu um erro. Não existe nada aqui.
@@ -90,6 +90,8 @@ projects:
   categories:
     fun: 业余项目
     work: 工作项目
+    pre: 过往项目
+    cur: 当前工作
 repositories:
   users: GitHub用户
   repos: GitHub仓库
