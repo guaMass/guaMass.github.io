@@ -14,14 +14,14 @@ main:
   subtitle:  在读博士研究生 | 电子与计算机工程系 | 香港科技大学
 titles:
   about: 关于我
-  blog: 文章列表
-  cv: 个人简历
-  news: 近期情况
-  projects: 项目介绍
-  publications: 发表文献
-  repositories: 代码仓库
+  blog: 文章
+  cv: 简历
+  news: 近况
+  projects: 项目
+  publications: 文献
+  repositories: 代码
   selected_publications: 精选文章
-  teaching: 教学工作
+  teaching: 教学
   submenus: 子目录
   unk: 无法访问
 descriptions:

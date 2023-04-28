@@ -11,7 +11,7 @@
 - title: 教育
   type: time_table
   contents:
-    - title: 电子与计算机科学专业博士研究生
+    - title: 电子与计算机科学博士研究生
       institution: 香港科技大学，香港，中国
       year: 2023-今
       description:
@@ -20,7 +20,7 @@
         #   contents:
         #     - Sub-descrição 1.
         #     - Sub-descrição 2.
-    - title: 计算机科学理学硕士
+    - title: 计算机科学理学硕士研究生
       institution: 佐治亚理工学院，亚特兰大，美国
       year: 2021-2023
       description:
