@@ -1,1 +1,1 @@
-[我从佐治亚理工毕业啦](https://commencement.gatech.edu/graduate/masters/wugang-meng)🧑‍🎓！ 感谢 [计算机学院](https://www.cc.gatech.edu/) 和 [深圳校区](https://gtsi.edu.cn/)的全体教职员工。 Go Jecket！ :honeybee:
+[我从佐治亚理工毕业啦](https://commencement.gatech.edu/graduate/masters/wugang-meng)🎓！ 感谢 [计算机学院](https://www.cc.gatech.edu/) 和 [深圳校区](https://gtsi.edu.cn/)的全体教职员工。 Go Jecket！ :honeybee:

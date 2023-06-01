@@ -1,5 +1,5 @@
 not_found:
-  message: 您将在3秒内被重定向到主页。如果没有重定向，请使用返回键
+  message: 您将在3秒内被重定向到主页。如果没有重定向，请使用返回键。
   main_page: 主页
 main:
   address: >
@@ -32,6 +32,7 @@ descriptions:
   blog: blogging
   publications: 发表文献按时间倒序排列。
   projects: 我参与中/过的项目……
+  news: 最近发生的事
   repositories: 代码仓库
   teaching: 课程资料
   unk: Parece que ocorreu um erro. Não existe nada aqui.
