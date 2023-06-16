@@ -1,1 +1,1 @@
-[I graduated from Georgia Tech](https://commencement.gatech.edu/graduate/masters/wugang-meng)🎓! Thank you to all the faculty and staff at the [Collage of Computing](https://www.cc.gatech.edu/) and the [Shenzhen Campus](https://gtsi.edu.cn/). Go Jecket! :honeybee:
+[I graduated from Georgia Tech](https://commencement.gatech.edu/graduate/masters/wugang-meng)🎓! Go Jecket! :honeybee:
