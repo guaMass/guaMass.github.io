@@ -11,7 +11,7 @@ main:
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
     Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  subtitle: a PhD student | Electronic and Computer Engineering | HKUST
+  subtitle: a PhD student | Electronic and Computer Engineering | <a href="https://fumin-home.hkust.edu.hk/people" target="_blank">FARL</a>
 titles:
   about: About
   blog: blog

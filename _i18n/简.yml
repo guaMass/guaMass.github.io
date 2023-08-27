@@ -11,7 +11,7 @@ main:
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
     支持自 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 和 <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
     建立于 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  subtitle:  在读博士研究生 | 电子与计算机工程系 | 香港科技大学
+  subtitle:  在读博士研究生 | 电子与计算机工程系 | <a href="https://fumin-home.hkust.edu.hk/people" target="_blank">自如机器人实验室</a>
 titles:
   about: 关于我
   blog: 文章
