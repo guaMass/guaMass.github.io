@@ -1,8 +1,5 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
 @INPROCEEDINGS{10027978,
   author={Zhang, Zhaolin and Song, Mingqi and Meng, Wugang and Liu, Yuhan and Li, Fengcong and Feng, Xiang and Zhao, Yinan},
   booktitle={2021 CIE International Conference on Radar (Radar)}, 
@@ -43,4 +40,17 @@ html={https://dx.doi.org/10.1088/1361-6501/ac7779}
   abstract = {In distributed coherent aperture radar (DCAR), the fundamental problem in ensuring the full coherence of the radar system is how to realize the precise positioning of the subarray. The subarray positioning scheme is designed based on the multi-domain extended extreme learning machine (ELM)-direction of arrival (DOA) estimation for the mobile DCAR system. The multi-domain partition scheme improves the ELM model, making the algorithm effective and low-complex in the changing electromagnetic environment. Firstly, the array covariance matrix is constrained by L2 regularization to decrease the influence of different feature measurement scales on the model. An airspace extension ELM (AEELM) method, which reduces the original matrix by the spatial partition layer and the sequential process, is proposed. This method diminishes the size of the model's solving matrix and enhances the DOA estimation accuracy while increasing or refining the samples. Secondly, an extended ELM method based on partition projection (PPEELM) is proposed to unravel the problems of high dimensions, small samples, and complex electromagnetic environments in radar array features. The radar covariance matrix is analyzed by partitioned multi-space projection according to the changes in the scene's electromagnetic environment. The operation can ameliorate the model's ability to solve nonlinear problems in complex environments. Therefore, the fully coherent system's position estimation accuracy and signal-to-noise ratio (SNR) gain are ameliorated. Numerical simulations show that AEELM can effectively augment the estimation accuracy and curtail the maximum matrix dimension of a single training. The PPEELM method can ensure the system coherence performance is more excellent than 95% when the subarray signal's SNR is greater than 0 dB in small scenarios.}
   }
 
+@ARTICLE{10365570,
+  author={Zhang, Zhaolin and Zhao, Yinan and Meng, Wugang and Li, Yingchun and Jin, Ming},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Application of Symplectic Geometry Mode Decomposition Based on Gaussian Process Space Angle in DOA Estimation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIM.2023.3344151},
+  html={https://ieeexplore.ieee.org/abstract/document/10365570},
+  preview={GPSA.png},
+  abstract = {In the presence of noise interference, direction of arrival (DOA) estimation becomes challenging. Particularly, when radar signals are entirely submerged in noise, the spatial information within the signals becomes obscured, thereby affecting the precision of DOA estimation. To address the issue, a symplectic geometry mode decomposition (SGMD) method based on Gaussian process space angle (GPSA) has been introduced to mitigate the impact of noise on target DOA estimation. This method operates within non-constant curvature spaces, constructing subspaces for signals with different signal-to-noise ratios (SNRs). The subspace with the highest SNR is selected as the reference subspace. By quantifying the differences between the various signal subspaces and the reference subspace, a trajectory matrix that aligns with the dynamic characteristics of the signals is formed. Subsequently, the trajectory matrix is employed to reconstruct the signals in the symplectic space, preserving the spatial information while reducing the disturbance caused by noise components on DOA estimation. Simulation and field experiments demonstrate the effectiveness of this approach in diminishing noise components within received signals, enhancing the precision of Music and Capon algorithms for DOA estimation under low SNR conditions.}
+  }
 

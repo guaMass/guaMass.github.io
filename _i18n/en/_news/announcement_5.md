@@ -1,1 +1,1 @@
-Our works about [ELM-DOA](https://ieeexplore.ieee.org/document/10275081) has been published.
+Our work about [ELM-DOA](https://ieeexplore.ieee.org/document/10275081) has been published.

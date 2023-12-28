@@ -1,0 +1,1 @@
+Our work about [Gaussian Process Space Angle in DOA Estimation](https://ieeexplore.ieee.org/abstract/document/10365570) has been published.
